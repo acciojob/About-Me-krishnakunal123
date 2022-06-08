@@ -1,1 +1,9 @@
-
+.container{
+    width:75%;
+    margin-top: 40px;
+    margin-left: 50px;
+    box-shadow: 8px 8px 12px lightgray;
+}
+.span{
+    font-weight:bold
+}
